@@ -1,4 +1,4 @@
-module github.com/libs4go/go-libp2p-grpc
+module github.com/libs4go/libp2p-grpc
 
 go 1.14
 
