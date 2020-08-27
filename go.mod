@@ -8,6 +8,7 @@ require (
 	github.com/libp2p/go-libp2p-core v0.6.1
 	github.com/libp2p/go-libp2p-peerstore v0.2.6
 	github.com/libs4go/errors v0.0.3
+	github.com/libs4go/go-libp2p-grpc v0.0.1
 	github.com/libs4go/smf4go v0.0.6
 	github.com/stretchr/testify v1.6.1
 	google.golang.org/grpc v1.31.0
