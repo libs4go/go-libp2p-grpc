@@ -10,7 +10,7 @@ import (
 	"github.com/libp2p/go-libp2p-core/host"
 	"github.com/libp2p/go-libp2p-core/peer"
 	peerstore "github.com/libp2p/go-libp2p-peerstore"
-	"github.com/libs4go/go-libp2p-grpc/pro"
+	"github.com/libs4go/libp2p-grpc/pro"
 	"github.com/stretchr/testify/require"
 )
 
